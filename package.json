@@ -1,0 +1,20 @@
+{
+  "name": "tesseract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ng-ocr": "^1.6.1",
+    "nodemon": "^1.19.1",
+    "opencv4nodejs": "^5.1.0",
+    "tesseract.js": "^1.0.19"
+  }
+}
